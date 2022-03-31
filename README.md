@@ -7,3 +7,4 @@ Sirven para entender conceptos de programación como:
 - Diccionarios
 - Matrices
 - Funciones
+- Otros
