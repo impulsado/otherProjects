@@ -4,8 +4,3 @@
 <br/>
 <br/>
 Repository with programs that I do not consider a project. <br/>
-They are used to understand programming concepts such as: 
-- Dictionaries
-- Matrices
-- Functions
-- Others
